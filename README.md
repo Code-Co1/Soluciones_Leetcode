@@ -1,6 +1,8 @@
-# Soluciones
+Este repositorio contiene soluciones a distintos problemas de programación populares en entrevistas de trabajo.
 
-Este repositorio contiene soluciones a distintos problemas de Leetcode en Python y JavaScript, además son las soluciones a los problemas explicados en los videos de YouTube
+Puedes encontrar la solución explicada a detalle de todos los problemas en el canal de YouTube [Code Co.](https://www.youtube.com/@CodeCo_)
+
+# Soluciones
 
 | Problema                                                                     | Js                                            | Py                                        | Java    | C++    | C    | TS    |
 | ---------------------------------------------------------------------------- | --------------------------------------------- | ----------------------------------------- | ------- | ------ | ---- | ----- |
