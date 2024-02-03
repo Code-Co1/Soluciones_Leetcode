@@ -1,6 +1,6 @@
 # BIENVENIDOS A CODE CO.!! 💻🚀
 
-## Donde Simplificamos la complejidad
+### Donde Simplificamos la complejidad
 
 Aqui encontrarán soluciones detalladas para distintos problemas de programación populares en entrevistas. Este recurso es una recopilación de los desafíos presentados en el canal de YouTube [Code Co.](https://www.youtube.com/@CodeCo_)
 
