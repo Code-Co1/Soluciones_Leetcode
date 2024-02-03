@@ -15,4 +15,4 @@ Los invitamos a explorar las soluciones que se ofrecen. Además, les animamos a 
 | Problema                                                                     | Js                                            | Py                                        | Java    | C++    | C    | TS    |
 | ---------------------------------------------------------------------------- | --------------------------------------------- | ----------------------------------------- | ------- | ------ | ---- | ----- |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Js ✅](Javascript/217-Contains_Duplicate.js) | [Py ✅](Python/217-Contains_Duplicate.py) | Java ❌ | C++ ❌ | C ❌ | TS ❌ |
-| [217. Two Sum](https://leetcode.com/problems/two-sum/)                       | [Js ✅](Javascript/1-Two_Sum.js)              | [Py ✅](Python/1-Two_Sum.py)              | Java ❌ | C++ ❌ | C ❌ | TS ❌ |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/)                       | [Js ✅](Javascript/1-Two_Sum.js)              | [Py ✅](Python/1-Two_Sum.py)              | Java ❌ | C++ ❌ | C ❌ | TS ❌ |
